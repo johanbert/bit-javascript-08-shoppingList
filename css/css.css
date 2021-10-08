@@ -1,3 +1,7 @@
 .form-outline.form-white .form-control {
     background-color: #222;
 }
+
+i {
+    cursor: pointer;
+}
